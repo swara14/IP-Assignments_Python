@@ -1,0 +1,10 @@
+file1.txt
+Net score:8.319444444444445
+Top five words are:['the', 'a', 'and', 'of', 'campus']
+Five random words are:['convert', 'this', 'data', 'into', 'a']
+
+file2.txt
+Net score:9.605263157894736
+Top five words are:['essays', 'formal', 'the', 'have', 'and']
+Five random words are:['essays', 'have', 'been', 'sub', 'classified']
+
